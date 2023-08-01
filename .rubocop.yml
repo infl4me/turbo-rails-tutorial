@@ -16,3 +16,9 @@ Style/FrozenStringLiteralComment:
 
 Style/StringLiterals:
   Enabled: false
+
+Rails/I18nLocaleTexts:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
