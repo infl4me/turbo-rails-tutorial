@@ -22,3 +22,6 @@ Rails/I18nLocaleTexts:
 
 Style/Documentation:
   Enabled: false
+
+Lint/UnusedBlockArgument:
+  Enabled: false
